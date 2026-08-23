@@ -6,6 +6,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0410-split-array-largest-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
 |  |
@@ -23,4 +24,8 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
