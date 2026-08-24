@@ -9,12 +9,14 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | [0001-two-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0410-split-array-largest-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
