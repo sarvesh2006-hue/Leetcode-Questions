@@ -67,6 +67,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -75,6 +76,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | [0125-valid-palindrome](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -84,4 +86,5 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
