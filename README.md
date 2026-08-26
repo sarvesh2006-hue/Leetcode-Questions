@@ -13,6 +13,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | [0410-split-array-largest-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
