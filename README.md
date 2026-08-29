@@ -8,6 +8,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | ------- |
 | [0001-two-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0410-split-array-largest-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
@@ -67,6 +68,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -87,4 +89,8 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | ------- |
 | [0189-rotate-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0415-add-strings) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
