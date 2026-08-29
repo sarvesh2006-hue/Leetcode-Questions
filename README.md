@@ -8,6 +8,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | ------- |
 | [0001-two-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0189-rotate-array) |
@@ -87,10 +88,12 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0415-add-strings) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
