@@ -98,6 +98,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0415-add-strings) |
@@ -132,4 +133,8 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0567-permutation-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
