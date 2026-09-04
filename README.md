@@ -11,6 +11,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | [0048-rotate-image](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0169-majority-element) |
@@ -54,6 +55,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0169-majority-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
@@ -72,6 +74,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0189-rotate-array) |
@@ -141,4 +144,12 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0050-powx-n) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
