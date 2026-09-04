@@ -11,6 +11,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | [0048-rotate-image](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0204-count-primes) |
@@ -32,6 +33,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
