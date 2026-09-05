@@ -7,6 +7,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0053-maximum-subarray) |
@@ -77,6 +78,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
