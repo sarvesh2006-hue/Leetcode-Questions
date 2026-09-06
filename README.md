@@ -38,6 +38,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
@@ -112,6 +113,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | ------- |
 | [0048-rotate-image](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0415-add-strings) |
@@ -163,5 +165,6 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
