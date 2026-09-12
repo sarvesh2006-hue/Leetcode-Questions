@@ -22,6 +22,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | [0240-search-a-2d-matrix-ii](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -62,6 +63,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | ------- |
 | [0075-sort-colors](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
@@ -69,6 +71,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | [0053-maximum-subarray](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -167,4 +170,24 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | ------- |
 | [0070-climbing-stairs](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
