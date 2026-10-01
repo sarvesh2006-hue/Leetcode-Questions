@@ -159,6 +159,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Quicksort
 |  |
@@ -202,4 +203,8 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
