@@ -85,6 +85,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0125-valid-palindrome) |
@@ -207,6 +208,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
