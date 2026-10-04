@@ -7,13 +7,7 @@
  * };
  */
 class Solution {
-    bool check(vector<ListNode*>&visited,ListNode*curr){
-        for(int i=0;i<visited.size();i++){
-            if(visited[i]==curr)
-            return 1;
-        }
-        return 0;
-    }
+   
 public:
     bool hasCycle(ListNode *head) {
         ListNode*curr=head;
