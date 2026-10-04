@@ -17,13 +17,15 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
         ListNode*curr=head;
-        vector<ListNode*>visited;
+        unordered_map<ListNode*,bool>visited;
         while(curr!=NULL){
-            if(check(visited,curr))
+            if(visited[curr]==1)
             return 1;
 
-            visited.push_back(curr);
+            visited[curr]=1;
             curr=curr->next;
+
+            
 
 
         }
