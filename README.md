@@ -15,6 +15,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 | [0074-search-a-2d-matrix](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0169-majority-element) |
@@ -121,6 +122,7 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
@@ -227,4 +229,12 @@ A curated collection of my daily LeetCode problem solutions, focusing on clean c
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarvesh2006-hue/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
